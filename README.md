@@ -6,7 +6,7 @@
 #### Second Project
 Grade : 20/25
 
-Grade on : 2021-12-13 06:06
+Grade on : 2021-10-08 18:45
 
 Graded by	: Se Jin Kwon
 
